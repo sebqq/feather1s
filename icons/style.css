@@ -1,0 +1,52 @@
+[class^="icon-"], [class*=" icon-"] {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-more-vertical {
+  width: 0.22265625em;
+}
+
+.icon-award {
+  width: 0.6669921875em;
+}
+
+.icon-bluetooth {
+  width: 0.5em;
+}
+
+.icon-dollar-sign {
+  width: 0.5830078125em;
+}
+
+.icon-map-pin {
+  width: 0.8330078125em;
+}
+
+.icon-mic {
+  width: 0.6669921875em;
+}
+
+.icon-repeat {
+  width: 0.8330078125em;
+}
+
+.icon-thermometer {
+  width: 0.4580078125em;
+}
+
+.icon-watch {
+  width: 0.6669921875em;
+}
