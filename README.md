@@ -2,7 +2,7 @@
 
 A package which make creation of customized icon packs easier. First of all I thank to Cole Bemis for this beautiful icon set that he has created.
 
-![](https://user-images.githubusercontent.com/33039909/61458131-1c6c5500-a96a-11e9-8873-43d365576475.png)
+![](https://user-images.githubusercontent.com/33039909/61462798-9228ee80-a973-11e9-9b53-7d3cebc511b7.png)
 
 ## What is Feather?
 
