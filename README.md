@@ -24,4 +24,4 @@ Font is generated using Fontello (http://fontello.com/).
 
 This project is licenced under the MIT License.
 
-[Feather](https://feathericons.com) icons are copyright under MIT.
+[Feather icons](https://feathericons.com) are copyright under [MIT License](https://github.com/feathericons/feather/blob/master/LICENSE).
