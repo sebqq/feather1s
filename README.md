@@ -12,13 +12,15 @@ https://feathericons.com
 
 ## What is feather1s
 
-What does "Feather1s" stands for? Feather1s is just a package, which contains all the icons from https://feathericons.com icon pack. These icons are transformed to compound paths so there should be no problem with importing whole icon pack into tools like Fontello (https://fontello.com/) or IcoMoon (https://icomoon.io).
+What does "Feather1s" stands for? Feather1s is just a package, which contains all the icons from https://feathericons.com icon pack. 
 
-**1s** suffix stands for stroke-width set to 1 (instead of default value, which is 2)
+These icons are transformed to compound paths so there should be no problem with importing whole icon pack into tools like Fontello (https://fontello.com/) or IcoMoon (https://icomoon.io).
 
-This package was made to help me as developer use these icons with react-native and I hope it can help you to simplify usage too!
+### **1s** suffix stands for stroke-width set to 1 (instead of default value, which is 2)
 
-Font is generated using Fontello (http://fontello.com/).
+This package was made to help me as developer use these icons with react-native and I hope it can help you to simplify your workflow too!
+
+Bundled font is generated using [Fontello](http://fontello.com/) font generator.
 
 # License
 
