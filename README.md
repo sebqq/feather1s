@@ -1,6 +1,6 @@
 # feather1s
 
-A package which make creation of customized icon packs easier. First of all I thank to Cole Bemis for this beautiful icon set that he created.
+A package which make creation of customized icon packs easier. First of all I thank to Cole Bemis for this beautiful icon set that he has created.
 
 ![](https://user-images.githubusercontent.com/33039909/61458131-1c6c5500-a96a-11e9-8873-43d365576475.png)
 
