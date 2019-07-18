@@ -2,6 +2,8 @@
 
 A package which make creation of customized icon packs easier. First of all I thank to Cole Bemis for this beautiful icon set that he created.
 
+![](https://user-images.githubusercontent.com/33039909/61458131-1c6c5500-a96a-11e9-8873-43d365576475.png)
+
 ## What is Feather?
 
 Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis on simplicity, consistency and usability.
