@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>navigation</title>
+    <desc>Created with Sketch.</desc>
+    <g id="navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10.0877879,13.9142062 L2.37883069,11.9869669 C1.92336105,11.8730995 1.86176184,11.2510079 2.28605533,11.0500267 L21.2860553,2.05002674 C21.7106429,1.8489063 22.1530879,2.29135123 21.9519674,2.71593883 L12.9519674,21.7159388 C12.7509863,22.1402323 12.1288947,22.0786331 12.0150272,21.6231635 L10.0877879,13.9142062 Z M3.97677296,11.3556761 L10.6213663,13.0168244 C10.8005089,13.0616101 10.9403841,13.2014852 10.9851697,13.3806278 L12.6463181,20.0252212 L20.4489087,3.55308546 L3.97677296,11.3556761 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

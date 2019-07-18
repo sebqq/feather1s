@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>smartphone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="smartphone" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.5,20 C11.9477153,20 11.5,19.5522847 11.5,19 C11.5,18.4477153 11.9477153,18 12.5,18 C13.0522847,18 13.5,18.4477153 13.5,19 C13.5,19.5522847 13.0522847,20 12.5,20 Z M7.5,2 L17.5,2 C18.8807119,2 20,3.11928813 20,4.5 L20,20.5 C20,21.8807119 18.8807119,23 17.5,23 L7.5,23 C6.11928813,23 5,21.8807119 5,20.5 L5,4.5 C5,3.11928813 6.11928813,2 7.5,2 Z M7.5,3 C6.67157288,3 6,3.67157288 6,4.5 L6,20.5 C6,21.3284271 6.67157288,22 7.5,22 L17.5,22 C18.3284271,22 19,21.3284271 19,20.5 L19,4.5 C19,3.67157288 18.3284271,3 17.5,3 L7.5,3 Z" id="Combined-Shape" fill="#000000"></path>
+    </g>
+</svg>

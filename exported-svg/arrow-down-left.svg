@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>arrow-down-left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="arrow-down-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.70710678,18 L15.5,18 C15.7761424,18 16,18.2238576 16,18.5 C16,18.7761424 15.7761424,19 15.5,19 L6.5,19 C6.22385763,19 6,18.7761424 6,18.5 L6,9.5 C6,9.22385763 6.22385763,9 6.5,9 C6.77614237,9 7,9.22385763 7,9.5 L7,17.2928932 L18.1464466,6.14644661 C18.3417088,5.95118446 18.6582912,5.95118446 18.8535534,6.14644661 C19.0488155,6.34170876 19.0488155,6.65829124 18.8535534,6.85355339 L7.70710678,18 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

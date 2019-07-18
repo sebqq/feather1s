@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>grid</title>
+    <desc>Created with Sketch.</desc>
+    <g id="grid" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,3.5 C3,3.22385763 3.22385763,3 3.5,3 L10.5,3 C10.7761424,3 11,3.22385763 11,3.5 L11,10.5 C11,10.7761424 10.7761424,11 10.5,11 L3.5,11 C3.22385763,11 3,10.7761424 3,10.5 L3,3.5 Z M4,4 L4,10 L10,10 L10,4 L4,4 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M14,3.5 C14,3.22385763 14.2238576,3 14.5,3 L21.5,3 C21.7761424,3 22,3.22385763 22,3.5 L22,10.5 C22,10.7761424 21.7761424,11 21.5,11 L14.5,11 C14.2238576,11 14,10.7761424 14,10.5 L14,3.5 Z M15,4 L15,10 L21,10 L21,4 L15,4 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M14,14.5 C14,14.2238576 14.2238576,14 14.5,14 L21.5,14 C21.7761424,14 22,14.2238576 22,14.5 L22,21.5 C22,21.7761424 21.7761424,22 21.5,22 L14.5,22 C14.2238576,22 14,21.7761424 14,21.5 L14,14.5 Z M15,15 L15,21 L21,21 L21,15 L15,15 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M3,14.5 C3,14.2238576 3.22385763,14 3.5,14 L10.5,14 C10.7761424,14 11,14.2238576 11,14.5 L11,21.5 C11,21.7761424 10.7761424,22 10.5,22 L3.5,22 C3.22385763,22 3,21.7761424 3,21.5 L3,14.5 Z M4,15 L4,21 L10,21 L10,15 L4,15 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

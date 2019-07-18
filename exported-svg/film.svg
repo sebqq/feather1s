@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>film</title>
+    <desc>Created with Sketch.</desc>
+    <g id="film" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,8 L18,8 L18,12 L22,12 L22,8 Z M22,7 L22,4.68 C22,3.75216162 21.2478384,3 20.32,3 L18,3 L18,7 L22,7 Z M22,17 L22,13 L18,13 L18,17 L22,17 Z M22,18 L18,18 L18,22 L20.32,22 C21.2478384,22 22,21.2478384 22,20.32 L22,18 Z M3,17 L7,17 L7,13 L3,13 L3,17 Z M3,18 L3,20.32 C3,21.2478384 3.75216162,22 4.68,22 L7,22 L7,18 L3,18 Z M3,8 L3,12 L7,12 L7,8 L3,8 Z M3,7 L7,7 L7,3 L4.68,3 C3.75216162,3 3,3.75216162 3,4.68 L3,7 Z M8,12 L17,12 L17,3 L8,3 L8,12 Z M8,13 L8,22 L17,22 L17,13 L8,13 Z M4.68,2 L20.32,2 C21.8001231,2 23,3.19987687 23,4.68 L23,20.32 C23,21.8001231 21.8001231,23 20.32,23 L4.68,23 C3.19987687,23 2,21.8001231 2,20.32 L2,4.68 C2,3.19987687 3.19987687,2 4.68,2 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

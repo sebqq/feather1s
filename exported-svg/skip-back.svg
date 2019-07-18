@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>skip-back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="skip-back" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M20,19.5009387 C20,19.9201918 19.5150341,20.1532784 19.1876525,19.8913731 L9.18765248,11.8913731 C8.93744917,11.6912104 8.93744917,11.3106669 9.18765248,11.1105042 L19.1876525,3.11050425 C19.5150341,2.84859891 20,3.08168555 20,3.50093865 L20,19.5009387 Z M19,18.4606262 L19,4.54125107 L10.3003905,11.5009387 L19,18.4606262 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M6,18.5009387 L6,4.50093865 C6,4.22479628 5.77614237,4.00093865 5.5,4.00093865 C5.22385763,4.00093865 5,4.22479628 5,4.50093865 L5,18.5009387 C5,18.777081 5.22385763,19.0009387 5.5,19.0009387 C5.77614237,19.0009387 6,18.777081 6,18.5009387 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

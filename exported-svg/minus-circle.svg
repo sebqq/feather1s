@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>minus-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="minus-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.5,23 C18.2989899,23 23,18.2989899 23,12.5 C23,6.70101013 18.2989899,2 12.5,2 C6.70101013,2 2,6.70101013 2,12.5 C2,18.2989899 6.70101013,23 12.5,23 Z M12.5,22 C7.25329488,22 3,17.7467051 3,12.5 C3,7.25329488 7.25329488,3 12.5,3 C17.7467051,3 22,7.25329488 22,12.5 C22,17.7467051 17.7467051,22 12.5,22 Z" id="Oval" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M8.5,13 L16.5,13 C16.7761424,13 17,12.7761424 17,12.5 C17,12.2238576 16.7761424,12 16.5,12 L8.5,12 C8.22385763,12 8,12.2238576 8,12.5 C8,12.7761424 8.22385763,13 8.5,13 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

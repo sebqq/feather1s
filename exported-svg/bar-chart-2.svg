@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>bar-chart-2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bar-chart-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M10,3.5 C10,3.22385763 10.2238576,3 10.5,3 L14.5,3 C14.7761424,3 15,3.22385763 15,3.5 L15,21.5 C15,21.7761424 14.7761424,22 14.5,22 L10.5,22 C10.2238576,22 10,21.7761424 10,21.5 L10,3.5 Z M11,4 L11,21 L14,21 L14,4 L11,4 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M18,8.5 C18,8.22385763 18.2238576,8 18.5,8 L22.5,8 C22.7761424,8 23,8.22385763 23,8.5 L23,21.5 C23,21.7761424 22.7761424,22 22.5,22 L18.5,22 C18.2238576,22 18,21.7761424 18,21.5 L18,8.5 Z M19,9 L19,21 L22,21 L22,9 L19,9 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M2,13.5 C2,13.2238576 2.22385763,13 2.5,13 L6.5,13 C6.77614237,13 7,13.2238576 7,13.5 L7,21.5 C7,21.7761424 6.77614237,22 6.5,22 L2.5,22 C2.22385763,22 2,21.7761424 2,21.5 L2,13.5 Z M3,14 L3,21 L6,21 L6,14 L3,14 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

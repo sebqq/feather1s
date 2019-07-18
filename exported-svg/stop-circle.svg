@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>stop-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="stop-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.5,23 C18.2989899,23 23,18.2989899 23,12.5 C23,6.70101013 18.2989899,2 12.5,2 C6.70101013,2 2,6.70101013 2,12.5 C2,18.2989899 6.70101013,23 12.5,23 Z M12.5,22 C7.25329488,22 3,17.7467051 3,12.5 C3,7.25329488 7.25329488,3 12.5,3 C17.7467051,3 22,7.25329488 22,12.5 C22,17.7467051 17.7467051,22 12.5,22 Z" id="Oval" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M9,9.5 C9,9.22385763 9.22385763,9 9.5,9 L15.5,9 C15.7761424,9 16,9.22385763 16,9.5 L16,15.5 C16,15.7761424 15.7761424,16 15.5,16 L9.5,16 C9.22385763,16 9,15.7761424 9,15.5 L9,9.5 Z M10,10 L10,15 L15,15 L15,10 L10,10 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

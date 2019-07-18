@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>skip-forward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="skip-forward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M4.5,4 C4.5,3.5807469 4.98496585,3.34766026 5.31234752,3.6095656 L15.3123475,11.6095656 C15.5625508,11.8097282 15.5625508,12.1902718 15.3123475,12.3904344 L5.31234752,20.3904344 C4.98496585,20.6523397 4.5,20.4192531 4.5,20 L4.5,4 Z M5.5,5.04031242 L5.5,18.9596876 L14.1996095,12 L5.5,5.04031242 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M18.5,5 L18.5,19 C18.5,19.2761424 18.7238576,19.5 19,19.5 C19.2761424,19.5 19.5,19.2761424 19.5,19 L19.5,5 C19.5,4.72385763 19.2761424,4.5 19,4.5 C18.7238576,4.5 18.5,4.72385763 18.5,5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

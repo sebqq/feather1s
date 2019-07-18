@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>underline</title>
+    <desc>Created with Sketch.</desc>
+    <g id="underline" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,3.5 L6,10.5 C6,14.0898509 8.91014913,17 12.5,17 C16.0898509,17 19,14.0898509 19,10.5 L19,3.5 C19,3.22385763 18.7761424,3 18.5,3 C18.2238576,3 18,3.22385763 18,3.5 L18,10.5 C18,13.5375661 15.5375661,16 12.5,16 C9.46243388,16 7,13.5375661 7,10.5 L7,3.5 C7,3.22385763 6.77614237,3 6.5,3 C6.22385763,3 6,3.22385763 6,3.5 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M4.5,22 L20.5,22 C20.7761424,22 21,21.7761424 21,21.5 C21,21.2238576 20.7761424,21 20.5,21 L4.5,21 C4.22385763,21 4,21.2238576 4,21.5 C4,21.7761424 4.22385763,22 4.5,22 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

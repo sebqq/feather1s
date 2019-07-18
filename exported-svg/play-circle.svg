@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>play-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="play-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.5,23 C18.2989899,23 23,18.2989899 23,12.5 C23,6.70101013 18.2989899,2 12.5,2 C6.70101013,2 2,6.70101013 2,12.5 C2,18.2989899 6.70101013,23 12.5,23 Z M12.5,22 C7.25329488,22 3,17.7467051 3,12.5 C3,7.25329488 7.25329488,3 12.5,3 C17.7467051,3 22,7.25329488 22,12.5 C22,17.7467051 17.7467051,22 12.5,22 Z" id="Oval" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M10,8.5 C10,8.10065231 10.4450727,7.86245661 10.7773501,8.08397485 L16.7773501,12.0839749 C17.0742166,12.2818859 17.0742166,12.7181141 16.7773501,12.9160251 L10.7773501,16.9160251 C10.4450727,17.1375434 10,16.8993477 10,16.5 L10,8.5 Z M11,9.43425855 L11,15.5657415 L15.5986122,12.5 L11,9.43425855 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

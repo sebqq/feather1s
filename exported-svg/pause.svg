@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>pause</title>
+    <desc>Created with Sketch.</desc>
+    <g id="pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,4.5 C6,4.22385763 6.22385763,4 6.5,4 L10.5,4 C10.7761424,4 11,4.22385763 11,4.5 L11,20.5 C11,20.7761424 10.7761424,21 10.5,21 L6.5,21 C6.22385763,21 6,20.7761424 6,20.5 L6,4.5 Z M7,5 L7,20 L10,20 L10,5 L7,5 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+        <path d="M14,4.5 C14,4.22385763 14.2238576,4 14.5,4 L18.5,4 C18.7761424,4 19,4.22385763 19,4.5 L19,20.5 C19,20.7761424 18.7761424,21 18.5,21 L14.5,21 C14.2238576,21 14,20.7761424 14,20.5 L14,4.5 Z M15,5 L15,20 L18,20 L18,5 L15,5 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
