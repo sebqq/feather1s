@@ -12,7 +12,7 @@ https://feathericons.com
 
 ## What is feather1s
 
-What does "Feather1s" stands for? Feather1s is just a package, which contains all the icons from https://feathericons.com icon pack. These icons are transformed to compound paths so in tools like Fontello (https://fontello.com/) or IcoMoon (https://icomoon.io) there should be no problem with imports.
+What does "Feather1s" stands for? Feather1s is just a package, which contains all the icons from https://feathericons.com icon pack. These icons are transformed to compound paths so there should be no problem with importing whole icon pack into tools like Fontello (https://fontello.com/) or IcoMoon (https://icomoon.io).
 
 **1s** suffix stands for stroke-width set to 1 (instead of default value, which is 2)
 
