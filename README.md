@@ -27,7 +27,7 @@ This package was made to help me as developer use these icons with react-native 
 
 Bundled font is generated using [Fontello](http://fontello.com/) font generator.
 
-## react-native usage
+## Usage in react-native
 
 Are you interested in using this font inside react-native project? Then [react-native-feather1s](https://github.com/sinodko/react-native-feather1s) package might be helpful to you!
 
