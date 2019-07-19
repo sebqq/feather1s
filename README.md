@@ -1,4 +1,9 @@
-![](https://user-images.githubusercontent.com/33039909/61481426-8dc2fc80-a998-11e9-9411-9d5530025dd9.png)
+<p align="center">
+  <img alt="logo" src="https://user-images.githubusercontent.com/33039909/61481426-8dc2fc80-a998-11e9-9411-9d5530025dd9.png">
+</p>
+
+
+---
 
 A package which make creation of customized icon packs easier. First of all I thank to Cole Bemis for this beautiful icon set that he has created.
 
