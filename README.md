@@ -25,9 +25,16 @@ These icons are transformed to compound paths so there should be no problem with
 
 This package was made to help me as developer use these icons with react-native and I hope it can help you to simplify your workflow too!
 
+Bundled font is generated using [Fontello](http://fontello.com/) font generator.
+
+## react-native usage
+
 Are you interested in using this font inside react-native project? Then [react-native-feather1s](https://github.com/sinodko/react-native-feather1s) package might be helpful to you!
 
-Bundled font is generated using [Fontello](http://fontello.com/) font generator.
+|   react-native-vector-icons feather icons      |    react-native-feather1s         |
+| :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| ![](https://user-images.githubusercontent.com/33039909/61454958-9567ae80-a962-11e9-89a8-8d26cfbc4e1b.png) | ![](https://user-images.githubusercontent.com/33039909/61454956-94cf1800-a962-11e9-88f6-0236d6095602.png) |
+
 
 # License
 
