@@ -1,7 +1,9 @@
 import os
 
+PATH_TO_SVG_FOLDER = "./exported-svg"
+
 names = []
-for dirpath, dnames, fnames in os.walk("./"):
+for dirpath, dnames, fnames in os.walk(PATH_TO_SVG_FOLDER):
     for f in fnames:
         if f.endswith(".svg"):
           new_name = f.replace(".svg", "")
