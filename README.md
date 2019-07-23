@@ -2,7 +2,6 @@
   <img alt="logo" width="350" height="90" src="https://user-images.githubusercontent.com/33039909/61521096-cf42be80-aa0f-11e9-8247-d3fbf31abf90.png">
 </p>
 
-
 ---
 
 A package which make creation of customized icon packs easier. First of big thanks to Cole Bemis for this beautiful icon set that he has created.
@@ -17,7 +16,7 @@ https://feathericons.com
 
 ## What is feather1s
 
-What does "Feather1s" stands for? Feather1s is just a package, which contains all the icons from https://feathericons.com icon pack. 
+What does "Feather1s" stands for? Feather1s is just a package, which contains all the icons from https://feathericons.com icon pack.
 
 These icons are transformed to compound paths so there should be no problem with importing whole icon pack into tools like Fontello (https://fontello.com/) or IcoMoon (https://icomoon.io).
 
@@ -27,14 +26,15 @@ This package was made to help me as developer use these icons with react-native 
 
 Bundled font is generated using [Fontello](http://fontello.com/) font generator.
 
+**All icons in exported-svg directory are optimized using [ImageOptim](https://imageoptim.com/mac) tool.**
+
 ## Interested in react-native usage?
 
 If you are interested in using feather1s within your react-native project then [react-native-feather1s](https://github.com/sinodko/react-native-feather1s) package might be helpful to you!
 
-|   react-native-vector-icons feather icons      |    react-native-feather1s         |
+|                                  react-native-vector-icons feather icons                                  |                                          react-native-feather1s                                           |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![](https://user-images.githubusercontent.com/33039909/61528019-10da6600-aa1e-11e9-946f-c119eeb173e6.png) | ![](https://user-images.githubusercontent.com/33039909/61528024-120b9300-aa1e-11e9-9e71-3d2dbc0e20d5.png) |
-
 
 # License
 
