@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'feather1s';
-  src: url('../font/feather1s.eot?87598167');
-  src: url('../font/feather1s.eot?87598167#iefix') format('embedded-opentype'),
-       url('../font/feather1s.woff2?87598167') format('woff2'),
-       url('../font/feather1s.woff?87598167') format('woff'),
-       url('../font/feather1s.ttf?87598167') format('truetype'),
-       url('../font/feather1s.svg?87598167#feather1s') format('svg');
+  src: url('../font/feather1s.eot?5393452');
+  src: url('../font/feather1s.eot?5393452#iefix') format('embedded-opentype'),
+       url('../font/feather1s.woff2?5393452') format('woff2'),
+       url('../font/feather1s.woff?5393452') format('woff'),
+       url('../font/feather1s.ttf?5393452') format('truetype'),
+       url('../font/feather1s.svg?5393452#feather1s') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'feather1s';
-    src: url('../font/feather1s.svg?87598167#feather1s') format('svg');
+    src: url('../font/feather1s.svg?5393452#feather1s') format('svg');
   }
 }
 */

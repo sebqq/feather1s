@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>square</title>
-    <desc>Created with Sketch.</desc>
-    <g id="square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M5.5,3 L19.5,3 C20.8807119,3 22,4.11928813 22,5.5 L22,19.5 C22,20.8807119 20.8807119,22 19.5,22 L5.5,22 C4.11928813,22 3,20.8807119 3,19.5 L3,5.5 C3,4.11928813 4.11928813,3 5.5,3 Z M5.5,4 C4.67157288,4 4,4.67157288 4,5.5 L4,19.5 C4,20.3284271 4.67157288,21 5.5,21 L19.5,21 C20.3284271,21 21,20.3284271 21,19.5 L21,5.5 C21,4.67157288 20.3284271,4 19.5,4 L5.5,4 Z" id="Rectangle-path" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m5.5 3h14c1.3807119 0 2.5 1.11928813 2.5 2.5v14c0 1.3807119-1.1192881 2.5-2.5 2.5h-14c-1.38071187 0-2.5-1.1192881-2.5-2.5v-14c0-1.38071187 1.11928813-2.5 2.5-2.5zm0 1c-.82842712 0-1.5.67157288-1.5 1.5v14c0 .8284271.67157288 1.5 1.5 1.5h14c.8284271 0 1.5-.6715729 1.5-1.5v-14c0-.82842712-.6715729-1.5-1.5-1.5z"/></svg>

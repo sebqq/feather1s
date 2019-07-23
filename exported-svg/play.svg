@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
-    <title>play</title>
-    <desc>Created with Sketch.</desc>
-    <g id="play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <path d="M5,2.50081778 C5,2.10523489 5.43762298,1.86631409 5.7703788,2.08022855 L19.7703788,11.0802285 C20.0765404,11.2770467 20.0765404,11.7245888 19.7703788,11.921407 L5.7703788,20.921407 C5.43762298,21.1353215 5,20.8964007 5,20.5008178 L5,2.50081778 Z M6,3.41665053 L6,19.584985 L18.5753713,11.5008178 L6,3.41665053 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
-    </g>
-</svg>
+<svg height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="m5 2.50081778c0-.39558289.43762298-.63450369.7703788-.42058923l14 8.99999995c.3061616.1968182.3061616.6443603 0 .8411785l-14 9c-.33275582.2139145-.7703788-.0250063-.7703788-.4205892zm1 .91583275v16.16833447l12.5753713-8.0841672z"/></svg>
