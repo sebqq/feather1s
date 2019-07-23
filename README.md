@@ -6,6 +6,8 @@
 
 A package which make creation of customized icon packs easier. First of big thanks to Cole Bemis for this beautiful icon set that he has created.
 
+**Look on our [webpage](https://sinodko.github.io/feather1s-web/) for all converted icons list https://sinodko.github.io/feather1s-web/**
+
 ![](https://user-images.githubusercontent.com/33039909/61520055-a4576b00-aa0d-11e9-9308-3c96707f699c.png)
 
 ## What is Feather?
@@ -19,8 +21,6 @@ https://feathericons.com
 What does "Feather1s" stands for? Feather1s is just a package, which contains all the icons from https://feathericons.com icon pack.
 
 These icons are transformed to compound paths so there should be no problem with importing whole icon pack into tools like Fontello (https://fontello.com/) or IcoMoon (https://icomoon.io).
-
-Look on our [webpage](https://sinodko.github.io/feather1s-web/) for all converted icons list https://sinodko.github.io/feather1s-web/
 
 ### **1s** suffix stands for stroke-width set to 1 (instead of default value, which is 2)
 
